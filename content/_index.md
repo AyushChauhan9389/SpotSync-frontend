@@ -4,7 +4,7 @@ banner:
   image: /images/banner-app.png
   link:
     label: Start Now!
-    href: "https://themefisher.com/products/andromeda-nextjs"
+    href: "https://spotsync.tg-tool.tech/"
 
 ##brands
 brands:
